@@ -1,0 +1,5 @@
+I used nested loops to find duplicate values in the array. The outer loop selects an element, and the inner loop compares it with the elements that come after it. If both values are equal, the value is a duplicate.
+
+The time complexity of this solution is O(n²) because, in the worst case, each element may need to be compared with almost every other element.
+
+I used this approach without HashSet so that the solution relies on basic arrays and loops.

@@ -1,0 +1,10 @@
+# .NET
+programming/bin/
+programming/obj/
+
+# Laravel
+laravel-api/vendor/
+laravel-api/.env
+
+# VS Code
+.vscode/
