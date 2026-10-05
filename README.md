@@ -54,6 +54,8 @@ The `laravel-api` folder contains a Laravel REST API for user management with:
 * Error handling
 * Database persistence
 
+**Database:** SQLite
+
 ### Database & SQL
 
 Contains SQL Server queries for:
@@ -64,6 +66,8 @@ Contains SQL Server queries for:
 * JOIN queries
 * Filtering posts by user
 * Unique email constraint
+
+**Database:** SQL Server
 
 ### Debugging
 
@@ -129,6 +133,7 @@ The API can then be accessed through the local server URL provided by Laravel.
 * .NET
 * PHP
 * Laravel
+* SQLite
 * SQL Server
 * REST APIs
 * Git & GitHub
